@@ -14,6 +14,7 @@ namespace BlankApp01.ViewModels
             : base (navigationService)
         {
             Title = "Main Page";
+
         }
     }
 }
